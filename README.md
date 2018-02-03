@@ -16,4 +16,4 @@ Made with love for the glory of functional programming ! :heart:
 
 # What we've done
 
-![Awesome chat](https://raw.githubusercontent.com/unip62/elixir-phoenix-chatroom/edit/master/docs/whatwevedone.png)
+![Awesome chat](https://preview.ibb.co/kCtzim/whatwevedone.png)
