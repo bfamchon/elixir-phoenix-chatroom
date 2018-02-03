@@ -13,3 +13,7 @@ We're done, let's enjoy our application by typing `mix phx.server` !
 You can now acess to this wonderfull chat at `localhost:4000` :computer:
 
 Made with love for the glory of functional programming ! :heart:
+
+# What we've done
+
+![Awesome chat](https://raw.githubusercontent.com/unip62/elixir-phoenix-chatroom/edit/master/docs/whatwevedone.png)
