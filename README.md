@@ -16,4 +16,4 @@ Made with love for the glory of functional programming ! :heart:
 
 # What we've done
 
-![Awesome chat](https://ibb.co/hEQqpR)
+![Awesome chat](https://thumb.ibb.co/hEQqpR/whatwevedone.png)
